@@ -18,3 +18,9 @@ One of the features of our game is that it can be played in a local area network
 
 ##Download
 You can download the final release version of the game from [here.](https://github.com/Mattie432/Civilization-Wars-Advanced/releases "Download the game")
+
+##Team Members
+[AlexBor](https://github.com/alexbor "View Profile")
+[dhruviltank](https://github.com/dhruviltank "View Profile")
+Luke Richardson
+Robert Zlatarski
