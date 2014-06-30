@@ -21,6 +21,9 @@ You can download the final release version of the game from [here.](https://gith
 
 ##Team Members
 [AlexBor](https://github.com/alexbor "View Profile")
+
 [dhruviltank](https://github.com/dhruviltank "View Profile")
+
 Luke Richardson
+
 Robert Zlatarski
