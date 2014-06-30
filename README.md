@@ -26,4 +26,6 @@ You can download the final release version of the game from [here.](https://gith
 
 Luke Richardson
 
+[Mattie432](https://github.com/mattie432 "View Profile")
+
 Robert Zlatarski
